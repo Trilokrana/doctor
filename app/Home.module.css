@@ -1,0 +1,40 @@
+/* Home.module.css */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .cardContainer {
+    flex-wrap: wrap;
+  }
+  
+  .card {
+    width: 100%;
+    max-width: 400px;
+  }
+
+  /* Dentist.module.css */
+.dentistContainer {
+    flex-wrap: wrap;
+  }
+  
+  .dentistCard {
+    width: 100%;
+  }
+  
+/* Gyanocologist.module.css */
+.gynaContainer {
+  flex-wrap: wrap;
+}
+
+.gynaCard {
+  width: 100%;
+}
+/* Orthopedics.module.css */
+.orthoContainer {
+  flex-wrap: wrap;
+}
+
+.orthoCard {
+  width: 100%;
+}
