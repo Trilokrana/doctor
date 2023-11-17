@@ -1,6 +1,6 @@
 import Image from 'next/image';
 import Link from 'next/link';
- alt='Image' ; // Import a separate CSS module for styling
+import styles from '@/app/Home.module.css'// Import a separate CSS module for styling
 
 const Orthopedics = () => {
   return (
