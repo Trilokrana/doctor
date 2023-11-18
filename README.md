@@ -74,7 +74,7 @@ The easiest way to deploy your Next.js app is to use the Netlify
 
 <p align="center">
   <a href="https://master--phenomenal-fox-88a676.netlify.app/" target="_blank">
-    <h1>Check out the Project Here </h1>
+    Check out the Project Here
   </a>
 </p>
 
