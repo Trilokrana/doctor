@@ -1,3 +1,45 @@
+<p align="center">
+  <img src="https://your-medical-portal-logo-url.png" alt="Medical Portal Logo" width="200" />
+</p>
+
+# Medical Portal
+
+Welcome to the **Medical Portal**, your one-stop solution for booking in-clinic medical consultations across different specialties. This modern web application is developed using Next.js.
+
+## Features
+
+- **Explore Specialties:**
+  - Engaging home page showcasing three major medical specialties.
+  - Clickable links for Dentistry, Orthopedics, and Gynecology.
+
+- **Detailed Category Pages:**
+  - Each specialty has its own dedicated page with comprehensive details.
+  - Visually appealing images representing each medical category.
+
+- **Informative Descriptions:**
+  - Short, informative paragraphs providing insights into the services offered.
+  - Help users make informed decisions about their medical needs.
+
+## Pages
+
+### Dentist
+![Dentist]
+Details about Dentistry services, ensuring a healthy and bright smile.
+
+### Orthopedics
+![Orthopedics]
+Specialized care in Orthopedics for bone and joint health.
+
+### Gynecologist
+![Gynecologist]
+Comprehensive Gynecology services for women's health.
+
+## Usage
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Trilok-Rana/medical-portal.git
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
