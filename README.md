@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-medical-portal-logo-url.png" alt="Medical Portal Logo" width="200" />
+  <img src="[https://your-medical-portal-logo-url.png](https://img.freepik.com/premium-vector/stethoscope-icon-design-illustration-health-medicine-logo-template_22857-539.jpg)" alt="Medical Portal Logo" width="200" />
 </p>
 
 # Medical Portal
